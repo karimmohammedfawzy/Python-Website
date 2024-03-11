@@ -10,7 +10,7 @@ st.set_page_config(page_title="Contact Us", page_icon=":Happy:", layout="wide")
 
 #-------Header Section-------
 
-st.subheader("Hi, My name is Karim ")
+st.subheader("Hi, My name is Karim Mohamed ")
 st.title("Karim")
 st.write("Shebin Elkom")
 
